@@ -1,4 +1,4 @@
-### 🐍- **Python Learning**- Curso + Exercícios
+# 🐍- **Python Learning**- Curso + Exercícios
 
 #### 📚 **Esse Repositório**:
 
@@ -13,8 +13,11 @@ Sempre com o enunciado + a resolução logo à baixo
 
 #### 🗂️ **Estrutura que será organizada o repositório:**
 
+```
+.
 ├── listas_resolvidas_puc_minas
 ├── curso_Teo_Me_Why_Python
+```
 
 ---
 
