@@ -1,0 +1,1 @@
+[('GY7-892', 'Civic'), ('TYE-284', 'Corolla'), ('SBX-345', 'Onix'), ('SHS-341', 'Gol')]
