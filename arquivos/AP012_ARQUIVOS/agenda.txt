@@ -1,0 +1,13 @@
+ana silva;31988881111;ana.silva@email.com
+bruno costa;31988882222;bruno.costa@email.com
+carla lima;31988883333;carla.lima@email.com
+daniel souza;31988884444;daniel.souza@email.com
+eduarda gomes;31988885555;eduarda.gomes@email.com
+felipe rocha;31988886666;felipe.rocha@email.com
+gabriela martins;31988887777;gabriela.martins@email.com
+henrique alves;31988888888;henrique.alves@email.com
+isabela fernandes;31988889999;isabela.fernandes@email.com
+joao pereira;31977770000;joao.pereira@email.com
+florence welch;3198072208;florence_high_as_hope@gmail.com
+slayyyter da silva;31998072209;slayyyter_wgia_aoty@gmail.com
+olivia rodrigo;2199090834;oliva_segundo_melhor_album_2026@gmail.com

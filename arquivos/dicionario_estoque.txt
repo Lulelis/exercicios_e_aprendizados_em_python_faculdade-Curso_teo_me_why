@@ -1,0 +1,6 @@
+canetinha bic:10
+lapiseira:20
+borracha:18
+marca-texto:90
+bosinha:76
+caneta pontas finas:34
