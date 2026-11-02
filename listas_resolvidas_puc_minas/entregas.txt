@@ -1,0 +1,4 @@
+BR001;belo horizonte;4.5
+BR002;contagem;2.0
+BR003;belo horizonte;8.0
+BR004;betim;1.6

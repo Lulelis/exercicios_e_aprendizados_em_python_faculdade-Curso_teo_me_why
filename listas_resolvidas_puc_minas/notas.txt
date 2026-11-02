@@ -1,0 +1,6 @@
+Ana;75
+Carlos;42
+Ana;85
+Bruno;60
+Carlos;78
+Ana;90
